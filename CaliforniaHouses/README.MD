@@ -10,7 +10,8 @@ This code was produced by following along in the book "Hands-On Machine Learning
 
 # Data Analysis Results
 
-How do these variables affect the housing prices in California? 
+How do these variables affect the housing prices in California?
+ 
 
 # Development Environment
 
