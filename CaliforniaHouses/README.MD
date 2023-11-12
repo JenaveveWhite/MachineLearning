@@ -6,11 +6,11 @@ This model currently shows multiple varibles that are associated with the housin
 
 This code was produced by following along in the book "Hands-On Machine Learning with Scikit-Learn & TensorFlow" written by Aurelien Geron. 
 
-[Software Demo Video](  )
+[Software Demo Video]( https://youtu.be/FK7sgqJQ9SM )
 
 # Data Analysis Results
 
-How do these variables affect the housing prices in Cailfornia? 
+How do these variables affect the housing prices in California? 
 
 # Development Environment
 
